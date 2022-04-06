@@ -14,9 +14,14 @@
 
 ## Description
 
-Introduction to machine learning workshop given at HackPSU Spring 2022!
+Introduction to machine learning workshop given at HackPSU Spring 2022
 
 Anaconda is required to follow along -- download here: https://www.anaconda.com/
+
+Includes:
+- ML-Workshop.ipynb: interactive presentation
+- exam-scores.csv: dataset used in presentation
+- figs: figures illustrating various algorithms
 
 ## References
 
